@@ -1,0 +1,26 @@
+/*{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "files.associations": {
+    "hid_host.h": "c"
+  },
+  "idf.flashType": "UART"
+}
+*/
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.flashType": "UART",
+  "idf.portWin": "COM14",
+  "files.associations": {
+    "hid_usage_keyboard.h": "c",
+    "hid_host.h": "c",
+    "usb_host.h": "c"
+  }
+}

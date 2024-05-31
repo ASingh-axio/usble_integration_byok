@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Axio/espIDF/usb_hid_tri_proj/hid/build/CMakeFiles/bootloader
+D:/Axio/espIDF/usb_hid_tri_proj/hid/build/CMakeFiles/bootloader.rule
+D:/Axio/espIDF/usb_hid_tri_proj/hid/build/CMakeFiles/bootloader-complete.rule
+D:/Axio/espIDF/usb_hid_tri_proj/hid/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Axio/espIDF/usb_hid_tri_proj/hid/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Axio/espIDF/usb_hid_tri_proj/hid/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Axio/espIDF/usb_hid_tri_proj/hid/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Axio/espIDF/usb_hid_tri_proj/hid/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Axio/espIDF/usb_hid_tri_proj/hid/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Axio/espIDF/usb_hid_tri_proj/hid/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
